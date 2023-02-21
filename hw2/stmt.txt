@@ -1,0 +1,9 @@
+int a(){continue;}
+int a(){break;}
+int a(){if(c){break;}}
+int a(){return c||d;}
+int a(){return ;}
+
+int a(){b++;--c;a=a+b;}
+int a(){}
+

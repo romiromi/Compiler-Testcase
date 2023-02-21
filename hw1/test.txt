@@ -1,0 +1,21 @@
+#pragma source on
+#pragma token on
+// keywords
+for , do , while , break, continue , if, else, return, struct , switch , case, default
+void, int, double float, char
+const, signed, unsigned, short, long
+// macros
+NULL, __ COUNTER__, __LINE__, INT_MAX, INT_MIN, CHAR_MAX,
+CHAR_MIN, MAX, MIN
+// operators
++ - * / % ++ -- < <= > >= == != = && || ! & |
+// punctuation
+: ; , . [ ] ( ) { }
+// integer
+0, -0, 1, 123, 45, -2131, +0, +1, -1
+// floating
+0.0, 0.1234, 123.456, -0.0, -0.1234, +0.0, +0., -.0
+// string
+"This is a string"
+// char
+'a', 'b', '\t', '\0', '\n'

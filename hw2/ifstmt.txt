@@ -1,0 +1,35 @@
+int a(){
+if(b) {}
+}
+
+int a(){
+if(b) {c=1;++c;d=NULL;if(b){}}
+}
+
+int a(){
+if(a){ if(b) {a = 1;} else {b = 2;} }
+}
+
+int a(){
+if(b++ == (&c = *d)){  }
+else {}
+}
+
+int a(){
+if(b++ == (&c = *d)){ if(1){} }
+else {}
+}
+
+int a(){
+if(b){ }
+else {if(NULL){}else{}}
+}
+
+int a(){
+if(b){ int a = b&c|d&e; }
+else {if(NULL){}else{}}
+}
+
+int *a(){
+if(b) {}
+}

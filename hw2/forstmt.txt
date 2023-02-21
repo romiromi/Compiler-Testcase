@@ -1,0 +1,18 @@
+int a(){
+for (+i;j<i&k;--i) return ++i;
+}
+
+int a(){for (;;) 'i';}
+int a(){for (i;;) 'i';}
+int a(){for (;i;) 'i';}
+int a(){for (;;i) 'i';}
+int a(){for (;i;j) 'i';}
+int a(){for (i;;j) 'i';}
+int a(){for (i;j;) 'i';}
+int a(){for (i;j;k) 'i';}
+
+int a(){for (i;j;k) {}}
+int a(){for (i;j;k) do i=1; while(NULL);}
+int a(){for (i;j;k) {do i=1; while(NULL);}}
+int a(){for (i;j;k) {1;2;3;a;_b;for(;;){}}}
+

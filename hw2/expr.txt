@@ -1,0 +1,54 @@
+int *a_ = sdf(*d, c, &f);
+
+int a[b+1] = {{g&&h},{&c&d}};
+int a = NULL == b == c;
+
+int a = b >> sizeof(c);
+
+int a = b < c < d;
+int a = b < c <= d > e >= f;
+int a = b < & c <= d > e >= f >= g;
+int a = b < & c <= * d > e >= --f >= g++%i/3 > 5*h > 2&i;
+
+int a = b == c == d;
+int a = b > 2 != c != ++d--;
+
+int a = b & c & c ^ d ^ d | e | e && f && f || g || g;
+int a = b++ & ++c & c-- ^ --d ^ &d | *e | e-2*3/2 && f && f || g || g+h;
+
+int a = b << 2;
+int a = b << c << 2;
+int a = b << 3 << 2;
+int a = &*--b++ << 2+3;
+
+int a = (short int)b;
+int a = (const long long*)b;
+int a = (const long long*)b++;
+int a = (unsigned long*)&--(++!*b);
+int a = !!!!b+~~c+~!d;
+int a = sizeof(b+++c--);
+int a = sizeof(&b+++*c--&a|b^c);
+
+int a = &b;
+int a = &--b;
+int a = &b--;
+
+int a = *b++;
+int a = ++b--;
+int a = b++--;
+int a = b[1-2]++;
+int a = 1 + (2-3)++;
+int a = (*b[c][d]()++)--;
+int a = ++b++;
+int a = b++--;
+char a = b++;
+char *c = d++;
+int a = b()++;
+
+int a = ++b -c--*55-3./23;
+int a = b[aasdf][5 + 3. -.7 / 2342342342-5%2324.00000+0000000.1];
+int a = b[1];
+int a = b[1][2];
+int a = b[++1];
+int a = b[*aasdf][5 + 3. -.7 / 2342342342-5%2324.00000+0000000.1];
+

@@ -1,0 +1,53 @@
+int sum(int a, int b){
+	int c = 3 + 3;
+	char a[10] = {'a', 'b', 'c'};
+	a = 3 * 4;
+
+	if (a == 10) {
+		a = 3;
+	}
+
+	if (a >= 10) {
+		a = 1;
+	}
+	else {
+		b = 4;
+	}
+
+	switch(d) { 
+        case 10: case 9: 
+            f = d + 1; 
+            break; 
+        case 7: 
+            f = d + 2;  
+        case 6: 
+
+        default: 
+            f = d + 3; 
+            break;
+    } 
+
+	while(n < 10){
+		n = n + 1;
+		if (n > 5){
+			return;
+		}
+	}
+
+	do {
+		n = n + 1;
+		if (n > 5){
+			continue;
+		}
+	} while(n < 10);
+
+	for(i=0; i<n; i++){
+		if(i>a) {
+			break;
+		}
+		else{
+		 a = ++ b;
+		 return a + b;
+		}
+	}
+}

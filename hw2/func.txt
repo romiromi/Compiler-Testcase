@@ -1,0 +1,18 @@
+int b(char c) {
+  float s;
+  s++;
+  return 0&&a&c;
+}
+int b(char c) {
+  float s;
+  s++;
+  NULL;
+  return;
+}
+
+int a(){}
+
+int a();
+int a ( ) ;
+signed short int alfdsdf ( long sdfs_324, double * _slfjls___ , int jslfj,const double sdljfsldf___) ;
+int *a3424 = _afasb();

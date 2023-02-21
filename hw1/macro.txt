@@ -1,0 +1,39 @@
+"NULL"|"__COUNTER__"|"__LINE__"|"INT_MAX"|"INT_MIN"|"CHAR_MAX"|"CHAR_MIN"|"MAX"|"MIN"
+LNULLN
+COUNTER
+__LIN
+E__
+CHAR
+char
+char_max
+CHAR_MAX
+
+min
+
+
+#pragma token off
+"NULL"|"__COUNTER__"|"__LINE__"|"INT_MAX"|"INT_MIN"|"CHAR_MAX"|"CHAR_MIN"|"MAX"|"MIN"
+LNULLN
+COUNTER
+__LIN
+E__
+CHAR
+char
+char_max
+CHAR_MAX
+
+min
+
+#pragma token on
+#pragma source off
+"NULL"|"__COUNTER__"|"__LINE__"|"INT_MAX"|"INT_MIN"|"CHAR_MAX"|"CHAR_MIN"|"MAX"|"MIN"
+LNULLN
+COUNTER
+__LIN
+E__
+CHAR
+char
+char_max
+CHAR_MAX
+
+min

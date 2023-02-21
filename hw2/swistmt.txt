@@ -1,0 +1,15 @@
+int a(){
+switch (b) { }
+}
+int a(){
+switch (b) {case 1: }
+}
+int a(){
+switch (b) {default: }
+}
+int a(){
+switch (b) {default:case 1:case 2: }
+}
+int *a(){
+switch (b) {case d+b-*c:d++;--a;a=c+d;case *d:&d++;case f:default: c = 1;--a;a=c+d;}
+}

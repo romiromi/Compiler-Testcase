@@ -1,0 +1,6 @@
+string
+"string"
+char a = 'b';
+char c = '\n';
+char d[111] = "klwjeks;\n";
+char e = "aa";

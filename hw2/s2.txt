@@ -1,0 +1,5 @@
+
+int a,b=3+4,c=-7/6;
+int a, b = 3 + 4, c = -7 / 6;
+float a = 0.5, b = 3.0 + 4, c = 7 * 12.3;
+int *sdljfs = a, * dsfs = c;

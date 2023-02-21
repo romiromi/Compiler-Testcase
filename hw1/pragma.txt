@@ -1,0 +1,13 @@
+#pragma	source	on
+aaa
+#pragma	source	on
+#pragmasourceon
+#pragma  	 		source  	 		on
+#pragma     source        on        
+#pragma	source on 
+#pragma								source	on						
+#pragma
+source
+on
+#pragma     source
+on

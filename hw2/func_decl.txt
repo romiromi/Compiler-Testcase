@@ -1,0 +1,4 @@
+signed short int alfdsdf ( long sdfs_324, double * _slfjls___ , int jslfj,const double sdljfsldf___) ;
+int *a3424 = _afasb();
+
+

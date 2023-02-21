@@ -1,0 +1,102 @@
+#pragma  source  on
+//'\uA'
+int
+char  
+    signed
+    
+__COUNTER__
+___COUNTER__
+INT_MAX
+ MIN
+g123_g
+_ggr231
+g134ga2
+
+++ -- == >= || / * + -
+[](){},.:;
+
+.0
+0.
++.0
+ +0.
+0.0
+-.0
+-0.
+-.
+-2124
++124
++0
+-0
++1.333
+-2.44
+
+"String"
+"\n"
+"\\"
+"string\n"
+
+'"'
+'$'
+'('
+'+'
+'*'
+'/'
+'0'
+'?'
+'@'
+'A'
+'c'
+'['
+']'
+'^'
+'_'
+'`'
+'{'
+'`'
+'|' |
+'\a'
+'\b'
+'\\'
+'\''
+'\"'
+'\?'
+'\t'
+'\0'
+'\n'
+'\111'
+'\11'
+'\1'
+'\x12341ABCdef3'
+'\u1234'
+'\U11111111'
+
+
+/*
+
+      c
+      
+      fg hepjhj
+      
+        */
+        
+        
+// c     g \
+geg\
+:)
+gg
+
+/*  */
+
+#pragma source on
+#pragma    source     off
+a
+#pragma token off
+a
+b
+#pragma source on
+g
+   
+      
+
+
+

@@ -1,0 +1,81 @@
+#pragma		 	source	 on			 
+char str[234234+23424/234.*.3-00000+0000.-.0000] = "aaaa\*\n";
+char str[ 234234 + 23424 / 234. * .3 - 00000 + 0000. - .0000 ] = "aaaa\*\n";
+"a\\" "\\" "a\\a"
+  "\"" 
+//  "\\aa\"
+ "\\aa"
+"//" "///" "//aa/" "//aa"
+><><} {		zMAX(x) c MAXMIN MAX :::: :	,.,. ., , .+1 +0	+ 0	+_--	+324243423.2234 +.22324 +234234323. + 3 +23424
+'"'
+afsd // cmnt
+ %%   % 2% %2 2%.3 '%' "%"
+"'"
+/ */ /* / / * / */ sjklflsdjlkljl324 234234jls /*sfs/////fs*/ sdfsfdsd /*5464 */ //////// // // // // sad
+/ */ /* / / * / */
+asfja234234234234234
+234234234lkjljl -234324. +23234. 234. 22.
+-0.34234234sdlj
+-sdfsfs.23424
+- 325432.a3535 - 353543222.00000 - .234 - 0. - .	-.0	- 0.0
+-	325432.a3535	-	353543222.00000	-	.234	-	0.	-	.	-.0	- 0.0
++325432.a3535 -353543222.00000 -.234 -0. -.	-.0	-0.0
+COUNTER__,,__LINE__, INT_MAX, INT_MIN, CHAR_MAX,COUNTER__
+__line__
+char*a == NULL 
+aaa+=1:b=- c;
+if(y---)
+					continue 
+do(y --)
+continue
+for(y----; c00_)
+break!
+a=!a
+b =!b
+c = !c
+c = ! c
+....c[-0]
+. . .. .c.
+d.child = &&&s.d;
+float *a = &ds;
+void*  aa=NULL;
+const signed unsigned short long int FLOAT = 1;
+int int a;
+int inT b;
+
+// g
+g /
+g/
+_s
+_s1
+_1
+_1s
+-a
+-1
+--a
+u++
+_++
+1++
+y = ss .k. 23 23ls(s++)
+
+		int a;
+		while(a++){
+--a--a;
+::
+aa-
+aa-;
+a--;
+char c = '\\';
+}
+/* char c = '\*'; */
+char c = '\'';
+char d = '/';
+
+// /*aaaa*/
+/*
+adf
+// sss
+ohoh //
+sdf//
+*/
+

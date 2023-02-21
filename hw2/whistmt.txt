@@ -1,0 +1,30 @@
+int a(){
+do {} while (a);
+}
+int a(){
+do {i++; j++;} while (a);
+}
+
+int a(){
+do "sdf"; while (a);
+}
+int a(){
+do while(1){} while (a);
+}
+int a(){
+do if(1){}else{} while (a);
+}
+
+int a(){
+while (1) if(b) {} else {}
+}
+int a(){
+while (1) {}
+}
+int a(){
+while (1) b=2; c=3;
+}
+int a(){
+while (1) {b=2; c=3; if(d){} switch(e){}}
+}
+

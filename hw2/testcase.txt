@@ -1,0 +1,60 @@
+//func
+const unsigned long long int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const unsigned long      int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const unsigned short     int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const unsigned long long int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const unsigned long long int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const unsigned long      int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const unsigned short     int  *input(int* a,signed b, long long ab,double* c,void *d,const e);
+const signed long long int  abcd();
+const signed long long int  a();
+const long long *Int(char a);
+const long long *input(char *a);
+const long *input(char *a);
+const long *input(char a);
+const short *input(char *a);
+const short *input(char a);
+const signed long b();
+signed a;
+unsigned b;
+const c;
+long d;
+long long e;
+short f;
+const unsigned long  a[1][a&2][b+2]={1,{3,3,3,3,{-&(const int)test(+1,(float) (!a+~~~~~~!here+5654),NULL),{a,{{{{your}}}}},{{{{{cc}}}}}},g,f,h},8888,-a[1][love],5},could[1+1][1]['c'] ;
+float a[1+5], b[1&1][3||4] = {{0|15, 1^5, 2%66}, {3+1, 4&&'a', ++5+++'b'---a}};
+signed *a='\xababe'; 
+int main(){
+	cin >> a >> b;
+	a(pickhere);
+	int i = 0;
+  int *a = &b;
+	while ("I am here") {
+	cout << "===============" << endl;
+	cout << ">? "<< a(pickhere) << "case finished" << endl;
+  int cc = -0+++a---akfeoahwfiwugj*cknlcvnalsfowehf;
+  b = +(a+&**&*!222222222-(3564)/4566)/((~~!!a==ab!=cc|-d^e&&f=g|h&&(i|13312165<<22131651>3203213515==45984561=521321-64654+foiewhfoiwhgn-dakdvnasnfoewhuhg897/7))+(a^b^(++~a--|--b++<-- c++>=--d+e&alkvmlakmldskfoi||g|h|i&jjjkldajdf)^kdav)-(yurare=asdfasdf<<diff>>dnvlknaldkfndhihwqpeqijfnvmnmnfj+++---1<2=3<=4>=5>>6<<7)*(a=b=c='d'='\n' = '\0' = '\t'=NULLNULL = NULL = 'k' = make_switch(a, i)));
+	}
+   make_switch(cc, i);
+   
+   int i = 0;
+   for(; ; i++){i = -- b + c +1231131564||87978%56;}
+   
+   switch(make_switch(a, b)){
+     case 0: printf("number 1 is wrong here\n");
+     case 1 : printf("number 2 is wrong here\n");
+       break;
+     case 2 : printf("number 2 is wrong here\n");
+       break;
+     case -2 : printf("number -2 is wrong here\n");
+       break;
+     case '2' : printf("number '2' is wrong here\n");
+       break;
+     case 3&45 : printf("number '3&45' is wrong here\n");
+       break;
+     default: printf("NULL\n");
+   
+   }
+     
+	  return 0;
+}

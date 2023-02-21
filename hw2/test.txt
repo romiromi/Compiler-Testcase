@@ -1,0 +1,63 @@
+int a;
+
+    const    b;
+double	c		;
+long long d;          
+
+short
+e
+;
+
+short f;
+
+char fsdl;
+char fsdl2;
+char _fsdl;
+char fsdl_;
+char fsd__l;
+
+signed gg;
+unsigned h234;
+float sdlf;
+void Void;
+
+const signed long long int _qwe;
+unsigned long int _asd;
+const unsigned short int _zxc;
+
+const long long _a;
+signed long _b;
+unsigned short _c;
+signed char _d;
+
+const signed _e;
+unsigned _f;
+
+
+int a, b = 3 + 4, *c = -7 / 6;
+float a = 0.5, b = 3.0 + 4, *c = 7 * 12.3;
+int a = (3 + 4), b = (c + d) + f;
+
+int a = ++ b, d = --c, e = -4 + &a, *f = +5;
+int a = b << c, d = 2 >> 3, e = 2!=3, f = 3 == 3, g = c && d, h = 2||3;
+int a = 2^2, b = 3|4, c = 4&5, d = 2 > 6;
+int a = !d, b = ~c;
+int a = b++, c = d --;
+
+
+int a = sum (5, 6);
+int a = *(v+3), b = (*f + 9);
+int a = *p;
+
+int a = (float*) b;
+int a = (char )c;
+
+int a = NULL;
+
+
+float a[2+1][5] = {{3.9, 4}, {7, 8}}, b[10] = {7/3, 8};
+
+int sum();
+int sum(int a, float b);
+void sum(int* a, float b);
+float* sum(int a, float b);

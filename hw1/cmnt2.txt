@@ -1,0 +1,58 @@
+#pragma token off
+float
+/* int */
+char
+// int
+char
+// char
+/*char*/
+float
+#pragma   token						on			
+float aaa;
+// float bbb;
+apple
+void ();
+abc
+int k;
+
+dd
+// asdf
+/* char*/
+float
+/*
+int
+int
+*/
+
+charchar
+char char
+
+#pragma token off
+float
+/* int */
+char
+// int
+char
+// char
+/*char*/
+float
+#pragma   token						on			
+float aaa;
+// float bbb;
+apple
+void ();
+abc
+int k;
+
+dd
+// asdf
+/* char*/
+float
+/*
+int
+int
+*/
+
+charchar
+char char
+
